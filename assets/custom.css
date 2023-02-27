@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Corbert-Regular;
+    src: url('/fonts/Corbert-Regular.ttf');
+}
+
+html {
+    font-family: Corbert-Regular;
+}
+

@@ -6,20 +6,20 @@ weight = 1
 rtl = false
 
 # title = "MML Design, LLC"
-logo = "img/MMLlogo.png"
+logo = "img/2Tc.png"
 description = "Creating Beauty"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
 
 [author]
-  name = "MMLDesign"
+  name = "MMLDesign, LLC"
   image = "img/MML.jpg"
-  headline = "Creating Beauty"
-  bio = "A little bit about you"
+  headline = "Interior Decorating"
+  bio = "Making things beautiful for you"
   links = [
     { email = "mailto:contact@mmldesign.us" },
-#     { link = "https://link-to-some-website.com/" },
+    { link = "https://mmldesign.us/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },
@@ -30,7 +30,7 @@ dateFormat = "2 January 2006"
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-#     { github = "https://github.com/username" },
+    { github = "https://github.com/MMLDesign" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },

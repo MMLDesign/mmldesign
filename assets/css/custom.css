@@ -1,0 +1,13 @@
+@font-face {
+    font-family: Klill-Light;
+    src: url('/fonts/Klill-Light.ttf');
+}
+
+html {
+    font-family: Klill-Light;
+}
+
+/* Increase the default font size */
+html {
+  font-size: 13pt;
+}
