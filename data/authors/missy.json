@@ -1,0 +1,9 @@
+{
+    "name": "Missy Naughton",
+    "image" : "img/profile300.png",
+    "bio": "Interior Decorator",
+    "social": [
+        { "email": "missy@mmldesign.us" },
+        { "instagram": "https://instagram.com/missynaughton" }
+    ]
+}

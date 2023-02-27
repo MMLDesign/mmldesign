@@ -1,0 +1,8 @@
+{
+    "name": "Marcia Naughton",
+    "image" : "img/MarciaML.png",
+    "bio": "Interior Decorator",
+    "social": [
+        { "email": "marcia@mmldesign.us" }
+    ]
+}
