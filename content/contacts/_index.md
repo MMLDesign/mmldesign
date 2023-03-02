@@ -1,18 +1,18 @@
 ---
 title: "Contacts"
-date: 2023
+date: 2022
+description: "Contact Info"
 draft: false
 
-showDate : false
-showDateUpdated : false
-showHeadingAnchors : false
-showPagination : false
-showReadingTime : false
-showTableOfContents : true
-showTaxonomies : false 
-showWordCount : false
-showSummary : false
-sharingLinks : false
+cascade:
+  showDate : false
+  showDateUpdated : false
+  showHeadingAnchors : false
+  showTableOfContents : true
+  showTaxonomies : false 
+  showSummary : false
+  sharingLinks : false
+  heroStyle: "background"
 
 ---
 

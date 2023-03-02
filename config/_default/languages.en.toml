@@ -14,7 +14,7 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "MMLDesign, LLC"
-  image = "img/MML.jpg"
+  image = "img/1.png"
   headline = "Interior Decorating"
   bio = "Making things beautiful for you"
   links = [
@@ -30,15 +30,15 @@ dateFormat = "2 January 2006"
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-    { github = "https://github.com/MMLDesign" },
+    # { github = "https://github.com/MMLDesign" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
-#     { instagram = "https://instagram.com/username" },
+    # { instagram = "https://instagram.com/username" },
 #     { keybase = "https://keybase.io/username" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
-#     { linkedin = "https://linkedin.com/in/username" },
+    # { linkedin = "https://linkedin.com/in/username" },
 #     { mastodon = "https://mastodon.instance/@username" },
 #     { medium = "https://medium.com/username" },
 #     { microsoft = "https://www.microsoft.com/" },

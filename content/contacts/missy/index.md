@@ -1,13 +1,17 @@
 ---
-title: "Marcia"
+title: "Missy Naughton"
 date: 2023-02-27
-description: "Marcia Naughton's Contact Info"
+description: "Missy Naughton's Contact Info"
 images: []
 draft: false
 
 showDate: false
 showDateUpdated: false
 showHeadingsAnchors: false
+showAuthor: true
+authors: 
+   - "missy"
+showAuthorsBadges: false
 showPagination: false
 showReadingTime: false
 showTableOfContents: true
@@ -18,6 +22,5 @@ sharingLinks: false
 heroStyle: "background"
 ---
 
-![Marcia Naughton.](./images/MarciaML.png)
 
-email: marcia@mmldesign.us
+
